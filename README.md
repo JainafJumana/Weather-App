@@ -1,7 +1,7 @@
 # 🌦️ Weather App
 
 ## 🔗 Demo
-https://your-demo-link.com
+
 
 
 ## 📖 About
